@@ -78,7 +78,7 @@ experiences:
         details: |
           **Mostly outstaffing for a large localization provider**
           
-          ###### Project: Translation Management System (TMS)
+          ##### Project: Translation Management System (TMS)
           *Solution for workflow orchestration to join manual localization process
           tasks with automations provided by ~30-40 internal and external systems.
           Heavily based on connectors and .NET Workflow Foundation. 
@@ -94,7 +94,7 @@ experiences:
           - Refactoring legacy code and help with refactoring plans for the team
           - Constant SDLC practices refinement (QA automation assistance, GIT usage model, QA environments maintenance, CD\CI automation, quality control automation, etc.)
           
-          ###### Project: Linguistic Toolbox (LTB)
+          ##### Project: Linguistic Toolbox (LTB)
           *Solution for automated text localization QA, integrated with user-facing systems
           Transformation of an old desktop tool to client-server architecture based on
           Windows services for running batch jobs, “greedy consumer” pattern + AMQP
@@ -105,7 +105,7 @@ experiences:
           - Refactoring and stabilization after app transformation phase
           - General feature development (both server infrastructure and functional features)
           
-          ###### Project: Machine Translation Quality Tracker (MTQT)
+          ##### Project: Machine Translation Quality Tracker (MTQT)
           *Solution for machine translation services quality evaluation. Helps to make best MT
           choice for particular domain, customer, type of content. Constant reporting of
           quality trends, used for feedback to Google, Bing, Amazon, DeepL and other MT
@@ -119,7 +119,7 @@ experiences:
           - Solo developer, implemented based on a demo piece of code from an internal conference
           - CD\CI, development, maintenance and troubleshooting
           
-          ###### RnD team
+          ##### RnD team
           Broad range of tasks using .NET\C#, python, Azure. Utilizing various NLP technics
           starting from normalization (stemming, lemmatization), including but not limited to
           min-hash indexes, word embedding, tf-idf, n-gram based analysis for tasks like
@@ -130,7 +130,7 @@ experiences:
           - Building text indexes for various analytical purposes
           - Other tasks related to mining, warehousing and batch processing textual data
           
-          ###### Other activities (on-site, for Itransition)
+          ##### Other activities (on-site, for Itransition)
           - Technical interviews for .NET Software Engineer positions
           - Mentorship for junior team members
           - Knowledge sharing collaboration: organized and ran informal meetups for improving Algorithmic and Data Structure Skills
@@ -140,13 +140,13 @@ experiences:
         time: June, 2019 - March, 2021
         company: EliNext, Belarus
         details: |
-          ###### Project: StudioNEXT (Virtual Studio)
+          ##### Project: StudioNEXT (Virtual Studio)
           Started as a contractor, continued as fulltime employee in Transperfect
       - role: Software Engineer
         time: March, 2021 - Now
         company: Transperfect, Poland
         details: |
-          ###### Project: StudioNEXT (Virtual Studio)
+          ##### Project: StudioNEXT (Virtual Studio)
           Solution for collaborative video dubbing outside a professional studio with minimal tech skills and equipment
           
           *.NET, Azure (WSS and HTTP API, OAuth, SQL, Azure Storage, Web Apps, App
@@ -157,7 +157,7 @@ experiences:
           - the team highlighted by the company’s monthly merit recognition initiative for quick reaction to customer needs and development ahead of the department’s infrastructure
           - the team is participating in the next-gen standard development and early adoption collaborating with a global top media company
 
-          ###### Project: Segmenter
+          ##### Project: Segmenter
           Solution for segmenting Automatic Speech Recognition (ASR) results into media subtitles and audio scripts
           
           *.NET, Azure (WSS and HTTP API, OAuth, Azure Storage, Web Apps, App Insights, Dev Ops, etc).
