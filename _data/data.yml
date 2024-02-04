@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: left # position of the sidebar : left or right
     # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -163,6 +159,5 @@ experiences:
           - the team is participating in the next-gen standard development and early adoption collaborating with a global top media company
 
 footer: >
-    **Last updated: February 2024**
-    
+    Last updated: February 2024</br>
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
