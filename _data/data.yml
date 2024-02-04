@@ -154,9 +154,18 @@ experiences:
           Remote team of 3, France*
           - the only backend developer in the team. Developed almost the whole product backend
           - backend development, design, maintenance and monitoring, etc. literally all the backend area is on me
-          - developing companion service apps in Azure and specific algorithms for localization that the apps expose via API
           - the team highlighted by the company’s monthly merit recognition initiative for quick reaction to customer needs and development ahead of the department’s infrastructure
           - the team is participating in the next-gen standard development and early adoption collaborating with a global top media company
+
+          #### Project: Segmenter
+          Solution for segmenting Automatic Speech Recognition (ASR) results into media subtitles and audio scripts
+          
+          *.NET, Azure (WSS and HTTP API, OAuth, Azure Storage, Web Apps, App Insights, Dev Ops, etc).
+          Remote team of 3, France*
+          - the only backend developer in the team. Developed almost the whole product backend
+          - backend API development, design, maintenance and monitoring, etc. literally all the backend area is on me
+          - developing custom algorithms
+          - collaboration with ML and NLP experts, integrating custom NLP models into product
 
 footer: >
     Last updated: February 2024</br>
