@@ -81,11 +81,12 @@ experiences:
         company: Itransition, Belarus
         details: |
           **Mostly outstaffing for a large localization provider**
+          
           #### Project: Translation Management System (TMS)
-          Solution for workflow orchestration to join manual localization process
+          *Solution for workflow orchestration to join manual localization process
           tasks with automations provided by ~30-40 internal and external systems.
           Heavily based on connectors and .NET Workflow Foundation. 
-          10+ years in prod, 1TB SQL DB, x2 load each year.
+          10+ years in prod, 1TB SQL DB, x2 load each year.*
           
           *~5 years. Distributed team (USA, France, Belarus, India)
           of size varying from 10 to ~30 people. 
@@ -96,6 +97,49 @@ experiences:
           - Working on system design solutions
           - Refactoring legacy code and help with refactoring plans for the team
           - Constant SDLC practices refinement (QA automation assistance, GIT usage model, QA environments maintenance, CD\CI automation, quality control automation, etc.)
+          
+          #### Project: Linguistic Toolbox (LTB)
+          *Solution for automated text localization QA, integrated with user-facing systems
+          Transformation of an old desktop tool to client-server architecture based on
+          Windows services for running batch jobs, “greedy consumer” pattern + AMQP
+          (Rabbit), ASP.NET Web API and Basic monitoring Web Portal (ASP.NET MVC).
+          Remote team of 2-3, Spain*
+          - Started as casual side resource to help with transformation and troubleshooting
+          - Finalizing the transformation stage and becoming solo backend developer of the system
+          - Refactoring and stabilization after app transformation phase
+          - General feature development (both server infrastructure and functional features)
+          
+          #### Project: Machine Translation Quality Tracker (MTQT)
+          *Solution for machine translation services quality evaluation. Helps to make best MT
+          choice for particular domain, customer, type of content. Constant reporting of
+          quality trends, used for feedback to Google, Bing, Amazon, DeepL and other MT
+          providers*
+          
+          *Azure Functions, Azure Storage, SMTP, multiple MT API connectors, adopting and
+          implementing text comparison and analysis algorithms. Architecture adopted for
+          background daily\weekly execution, sharing production MT accounts and
+          distrubuting each test run in time not to affect much throttling limits.
+          Remote team (management), Spain*
+          - Solo developer, implemented based on a demo piece of code from an internal conference
+          - CD\CI, development, maintenance and troubleshooting
+          
+          #### RnD team
+          Broad range of tasks using .NET\C#, python, Azure. Utilizing various NLP technics
+          starting from normalization (stemming, lemmatization), including but not limited to
+          min-hash indexes, word embedding, tf-idf, n-gram based analysis for tasks like
+          language\domain detection.
+          Remote team of 4, Spain
+          - Developing automated QA methods for localization
+          - Batch processing company’s data for business questions (similar do data science tasks), using Azure Storage and Azure Batch capabilities
+          - Building text indexes for various analytical purposes
+          - Other tasks related to mining, warehousing and batch processing textual data
+          
+          #### Other activities (on-site, for Itransition)
+          - Technical interviews for .NET Software Engineer positions
+          - Mentorship for junior team members
+          - Knowledge sharing collaboration: organized and ran informal meetups for improving Algorithmic and Data Structure Skills
+          - RFX and RFI processing for the company
+          - Technical coordination experience for an internal project (the company’s employee management system)
       - role: Software Engineer
         time: June, 2019 - March, 2021
         company: EliNext, Belarus
