@@ -144,13 +144,13 @@ experiences:
         time: June, 2019 - March, 2021
         company: EliNext, Belarus
         details: |
-          #### Project: Virtual Studio
+          #### Project: StudioNEXT (Virtual Studio)
           Started as a contractor, continued as fulltime employee in Transperfect
       - role: Software Engineer
         time: March, 2021 - Now
         company: Transperfect, Poland
         details: |
-          #### Project: Virtual Studio
+          #### Project: StudioNEXT (Virtual Studio)
           Solution for collaborative video dubbing outside a professional studio with minimal tech skills and equipment
           
           *.NET, Azure (WSS and HTTP API, OAuth, SQL, Azure Storage, Web Apps, App
@@ -163,4 +163,6 @@ experiences:
           - the team is participating in the next-gen standard development and early adoption collaborating with a global top media company
 
 footer: >
+    **Last updated: February 2024**
+    
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
