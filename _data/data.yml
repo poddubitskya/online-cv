@@ -76,21 +76,23 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Engineer
+        time: 2011 - 2019
+        company: Itransition, Belarus
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Solution for workflow orchestration to join manual localization process
+          tasks with automations provided by ~30-40 internal and external systems.
+          Heavily based on connectors and .NET Workflow Foundation. 
+          10+ years in prod, 1TB SQL DB, x2 load each year.
+          ~5 years. Distributed team (USA, France, Belarus, India)
+          of size varying from 10 to ~30 people. 
+          Started as a middle software engineer, quited as the Belarusian subteam teamlead role.
+          Scrum-like dev process
+            - General development and fixing bugs
+            - Planning, time and complexity evaluation for the team’s scope
+            - Working on system design solutions
+            - Refactoring legacy code and help with refactoring plans for the team
+            - Constant SDLC practices refinement (QA automation assistance, GIT usage model, QA environments maintenance, CD\CI automation, quality control automation, etc.)
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
