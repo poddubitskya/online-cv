@@ -80,6 +80,7 @@ experiences:
         time: 2011 - 2019
         company: Itransition, Belarus
         details: |
+          ## Project: Translation Management System (TMS)
           Solution for workflow orchestration to join manual localization process
           tasks with automations provided by ~30-40 internal and external systems.
           Heavily based on connectors and .NET Workflow Foundation. 
