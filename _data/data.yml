@@ -72,6 +72,36 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Software Engineer
+        time: March, 2021 - Now
+        company: Transperfect, Poland
+        details: |
+          ##### Project: StudioNEXT (Virtual Studio)
+          Solution for collaborative video dubbing outside a professional studio with minimal tech skills and equipment
+          
+          *.NET, Azure (WSS and HTTP API, OAuth, SQL, Azure Storage, Web Apps, App
+          Insights, Key Vault, Dev Ops, etc). Cross-platform client app (Angular, electron)
+          Remote team of 3, France*
+          - the only backend developer in the team. Developed almost the whole product backend
+          - backend development, design, maintenance and monitoring, etc. literally all the backend area is on me
+          - the team highlighted by the company’s monthly merit recognition initiative for quick reaction to customer needs and development ahead of the department’s infrastructure
+          - the team is participating in the next-gen standard development and early adoption collaborating with a global top media company
+
+          ##### Project: Segmenter
+          Solution for segmenting Automatic Speech Recognition (ASR) results into media subtitles and audio scripts
+          
+          *.NET, Azure (WSS and HTTP API, OAuth, Azure Storage, Web Apps, App Insights, Dev Ops, etc).
+          Remote team of 3, France*
+          - the only backend developer in the team. Developed almost the whole product backend
+          - backend API development, design, maintenance and monitoring, etc. literally all the backend area is on me
+          - developing custom algorithms
+          - collaboration with ML and NLP experts, integrating custom NLP models into product
+      - role: Software Engineer
+        time: June, 2019 - March, 2021
+        company: EliNext, Belarus
+        details: |
+          ##### Project: StudioNEXT (Virtual Studio)
+          Started as a contractor, continued as fulltime employee in Transperfect
       - role: Software Engineer / Team Leader
         time: 2011 - 2019
         company: Itransition, Belarus
@@ -136,36 +166,6 @@ experiences:
           - Knowledge sharing collaboration: organized and ran informal meetups for improving Algorithmic and Data Structure Skills
           - RFX and RFI processing for the company
           - Technical coordination experience for an internal project (the company’s employee management system)
-      - role: Software Engineer
-        time: June, 2019 - March, 2021
-        company: EliNext, Belarus
-        details: |
-          ##### Project: StudioNEXT (Virtual Studio)
-          Started as a contractor, continued as fulltime employee in Transperfect
-      - role: Software Engineer
-        time: March, 2021 - Now
-        company: Transperfect, Poland
-        details: |
-          ##### Project: StudioNEXT (Virtual Studio)
-          Solution for collaborative video dubbing outside a professional studio with minimal tech skills and equipment
-          
-          *.NET, Azure (WSS and HTTP API, OAuth, SQL, Azure Storage, Web Apps, App
-          Insights, Key Vault, Dev Ops, etc). Cross-platform client app (Angular, electron)
-          Remote team of 3, France*
-          - the only backend developer in the team. Developed almost the whole product backend
-          - backend development, design, maintenance and monitoring, etc. literally all the backend area is on me
-          - the team highlighted by the company’s monthly merit recognition initiative for quick reaction to customer needs and development ahead of the department’s infrastructure
-          - the team is participating in the next-gen standard development and early adoption collaborating with a global top media company
-
-          ##### Project: Segmenter
-          Solution for segmenting Automatic Speech Recognition (ASR) results into media subtitles and audio scripts
-          
-          *.NET, Azure (WSS and HTTP API, OAuth, Azure Storage, Web Apps, App Insights, Dev Ops, etc).
-          Remote team of 3, France*
-          - the only backend developer in the team. Developed almost the whole product backend
-          - backend API development, design, maintenance and monitoring, etc. literally all the backend area is on me
-          - developing custom algorithms
-          - collaboration with ML and NLP experts, integrating custom NLP models into product
 
 footer: >
     Last updated: February 2024</br>
