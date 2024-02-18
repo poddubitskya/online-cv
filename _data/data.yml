@@ -76,6 +76,16 @@ experiences:
         time: March, 2021 - Now
         company: Transperfect, Poland
         details: |
+          ##### Project: Segmenter
+          Solution for segmenting Automatic Speech Recognition (ASR) results into media subtitles and audio scripts
+          
+          *.NET, Azure (WSS and HTTP API, OAuth, Azure Storage, Web Apps, App Insights, Dev Ops, etc).
+          Remote team of 3, France*
+          - the only backend developer in the team. Developed almost the whole product backend
+          - backend API development, design, maintenance and monitoring, etc. literally all the backend area is on me
+          - developing custom algorithms
+          - collaboration with ML and NLP experts, integrating custom NLP models into product
+
           ##### Project: StudioNEXT (Virtual Studio)
           Solution for collaborative video dubbing outside a professional studio with minimal tech skills and equipment
           
@@ -86,16 +96,6 @@ experiences:
           - backend development, design, maintenance and monitoring, etc. literally all the backend area is on me
           - the team highlighted by the company’s monthly merit recognition initiative for quick reaction to customer needs and development ahead of the department’s infrastructure
           - the team is participating in the next-gen standard development and early adoption collaborating with a global top media company
-
-          ##### Project: Segmenter
-          Solution for segmenting Automatic Speech Recognition (ASR) results into media subtitles and audio scripts
-          
-          *.NET, Azure (WSS and HTTP API, OAuth, Azure Storage, Web Apps, App Insights, Dev Ops, etc).
-          Remote team of 3, France*
-          - the only backend developer in the team. Developed almost the whole product backend
-          - backend API development, design, maintenance and monitoring, etc. literally all the backend area is on me
-          - developing custom algorithms
-          - collaboration with ML and NLP experts, integrating custom NLP models into product
       - role: Software Engineer
         time: June, 2019 - March, 2021
         company: EliNext, Belarus
@@ -107,33 +107,6 @@ experiences:
         company: Itransition, Belarus
         details: |
           *Mostly outstaffing for a large localization provider*
-          
-          ##### Project: Translation Management System (TMS)
-          *Solution for workflow orchestration to join manual localization process
-          tasks with automations provided by ~30-40 internal and external systems.
-          Heavily based on connectors and .NET Workflow Foundation. 
-          10+ years in prod, 1TB SQL DB, x2 load each year.*
-          
-          *~5 years. Distributed team (USA, France, Belarus, India)
-          of size varying from 10 to ~30 people. 
-          Started as a middle software engineer, quited as the Belarusian subteam teamlead role.
-          Scrum-like dev process*
-          - General development and fixing bugs
-          - Planning, time and complexity evaluation for the team’s scope
-          - Working on system design solutions
-          - Refactoring legacy code and help with refactoring plans for the team
-          - Constant SDLC practices refinement (QA automation assistance, GIT usage model, QA environments maintenance, CD\CI automation, quality control automation, etc.)
-          
-          ##### Project: Linguistic Toolbox (LTB)
-          *Solution for automated text localization QA, integrated with user-facing systems
-          Transformation of an old desktop tool to client-server architecture based on
-          Windows services for running batch jobs, “greedy consumer” pattern + AMQP
-          (Rabbit), ASP.NET Web API and Basic monitoring Web Portal (ASP.NET MVC).
-          Remote team of 2-3, Spain*
-          - Started as casual side resource to help with transformation and troubleshooting
-          - Finalizing the transformation stage and becoming solo backend developer of the system
-          - Refactoring and stabilization after app transformation phase
-          - General feature development (both server infrastructure and functional features)
           
           ##### Project: Machine Translation Quality Tracker (MTQT)
           *Solution for machine translation services quality evaluation. Helps to make best MT
@@ -159,6 +132,33 @@ experiences:
           - Batch processing company’s data for business questions (similar do data science tasks), using Azure Storage and Azure Batch capabilities
           - Building text indexes for various analytical purposes
           - Other tasks related to mining, warehousing and batch processing textual data
+          
+          ##### Project: Linguistic Toolbox (LTB)
+          *Solution for automated text localization QA, integrated with user-facing systems
+          Transformation of an old desktop tool to client-server architecture based on
+          Windows services for running batch jobs, “greedy consumer” pattern + AMQP
+          (Rabbit), ASP.NET Web API and Basic monitoring Web Portal (ASP.NET MVC).
+          Remote team of 2-3, Spain*
+          - Started as casual side resource to help with transformation and troubleshooting
+          - Finalizing the transformation stage and becoming solo backend developer of the system
+          - Refactoring and stabilization after app transformation phase
+          - General feature development (both server infrastructure and functional features)
+          
+          ##### Project: Translation Management System (TMS)
+          *Solution for workflow orchestration to join manual localization process
+          tasks with automations provided by ~30-40 internal and external systems.
+          Heavily based on connectors and .NET Workflow Foundation. 
+          10+ years in prod, 1TB SQL DB, x2 load each year.*
+          
+          *~5 years. Distributed team (USA, France, Belarus, India)
+          of size varying from 10 to ~30 people. 
+          Started as a middle software engineer, quited as the Belarusian subteam teamlead role.
+          Scrum-like dev process*
+          - General development and fixing bugs
+          - Planning, time and complexity evaluation for the team’s scope
+          - Working on system design solutions
+          - Refactoring legacy code and help with refactoring plans for the team
+          - Constant SDLC practices refinement (QA automation assistance, GIT usage model, QA environments maintenance, CD\CI automation, quality control automation, etc.)
           
           ##### Other activities (on-site, for Itransition)
           - Technical interviews for .NET Software Engineer positions
